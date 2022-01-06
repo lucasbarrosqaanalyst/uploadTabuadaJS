@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body {
+    background-color: #3c9131;
+    font: normal 16pt Helvetica;
+    color: white;
+    height: 100vh;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+section {
+    width: 500px;
+    margin-left: 350px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+    color: #000000;
+    padding: 10px;
+}
+
+#num {
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#selTab {
+    padding: 5px;
+}
+
+#botao {
+    background-color: #ce4116;
+    font: bold 12pt Helvetica;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
